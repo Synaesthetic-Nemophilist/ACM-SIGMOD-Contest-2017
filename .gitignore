@@ -80,3 +80,4 @@ fabric.properties
 .idea/modules.xml
 .idea/untitled.iml
 cmake-build-debug/
+!/.gitignore
